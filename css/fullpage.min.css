@@ -20,6 +20,7 @@ html.fp-enabled {
 #logo img {
   height: 80px;
   width: auto;
+  cursor: pointer;
 }
 
 
@@ -272,6 +273,7 @@ html.fp-enabled {
     white-space: nowrap;
     border: 0
 }
+
 
 
 /*# sourceMappingURL=fullpage.min.css.map */
